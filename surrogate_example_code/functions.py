@@ -7,7 +7,7 @@ warnings.warn = warn
 """ Imports """
 import numpy as np
 import pandas as pd
-#import sobol_seq
+import sobol_seq
 from scipy.stats.distributions import entropy
 import matplotlib.pylab as plt
 import seaborn as sns
